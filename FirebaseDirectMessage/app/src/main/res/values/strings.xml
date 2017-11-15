@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">FirebaseDirectMessage</string>
+
+    <!-- Strings related to login -->
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password (optional)</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="error_invalid_email">This email address is invalid</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="password">Password</string>
+    <string name="email_registration">Email Registration</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="cancel">CANCEL</string>
+    <string name="confirm">CONFIRM</string>
+    <string name="reset_password">Reset Password</string>
+    <string name="sign_out">Sign out</string>
+    <string name="first_and_last_name">First and last name</string>
+    <string name="save">Save</string>
+    <string name="change_password">Change Password</string>
+
+
+
+    <!-- FCM Related Strings -->
+    <string name="default_notification_channel_id" translatable="false">codingwithmitch.com.firebasedirectmessage.default_notification_channel_id</string>
+    <string name="data_type">data_type</string>
+    <string name="direct_message">direct_message</string>
+    <string name="data_message">message</string>
+    <string name="data_title">title</string>
+    <string name="data_message_id">message_id</string>
+
+    <!-- Bundle Extras -->
+    <string name="intent_user_id">intent_user_id</string>
+
+    <!-- Dialog Names -->
+    <string name="dialog_message">dialog_message</string>
+
+
+    <!-- Firebase Database Nodes -->
+    <string name="dbnode_users">users</string>
+    <string name="dbnode_messages">messages</string>
+
+
+
+    <!-- Firebase Database Fields -->
+    <string name="field_message">message</string>
+    <string name="field_user_id">user_id</string>
+    <string name="field_messaging_token">messaging_token</string>
+
+    <!-- Strings -->
+
+
+
+</resources>
+
+
+
+
+
+
+
+
+
+
+
+
+

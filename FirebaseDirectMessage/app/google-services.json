@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "370887741467",
+    "firebase_url": "https://fir-directmessage.firebaseio.com",
+    "project_id": "fir-directmessage",
+    "storage_bucket": "fir-directmessage.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:370887741467:android:d39be30ed3a0c82b",
+        "android_client_info": {
+          "package_name": "codingwithmitch.com.firebasedirectmessage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "370887741467-ov8m6g35t0v90v46kusg69fmpqaruemv.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAGXeB03YKB-qSGvOqou-QT5jO9WmY5ZPc"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
